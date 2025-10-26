@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+    <name>Backpack Slot Patch</name>
+    <author>Blatserts</author>
+    <packageId>blatserts.backpackslotpatch</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modVersion>1.0</modVersion>
+    <modDependencies>
+        <li>
+            <packageId>CP.RimmuNation.2.Clothing</packageId>
+            <displayName>[RH2] Rimmu-Nation² - Clothing</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2563506048</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <description>
+        ¡PARCHE PARA RIMMU-NATION²!
+        Agrega una nueva capa de ropa "Espalda" (Back) para mochilas 
+        y otros accesorios de espalda.
+        Reasigna las mochilas del Mod Rimmu-Nation2 para que utilicen 
+        esta nueva capa.
+    </description>
+</ModMetaData>

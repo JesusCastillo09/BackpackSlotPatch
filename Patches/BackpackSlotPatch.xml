@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>
+            Defs/ThingDef[@Name="RH2_BackpackMakeableBase"]/apparel/layers/li[text()="Belt"]
+        </xpath>
+        <value>
+            <li>Back</li>
+        </value>
+        <success>Always</success>
+    </Operation>
+</Patch>

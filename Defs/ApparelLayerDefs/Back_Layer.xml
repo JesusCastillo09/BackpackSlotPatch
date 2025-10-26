@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+    <ApparelLayerDef>
+        <defName>Back</defName>
+        <label>Back</label>
+        <drawOrder>250</drawOrder>
+    </ApparelLayerDef>
+</Defs>
