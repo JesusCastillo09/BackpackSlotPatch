@@ -4,6 +4,6 @@
     <ApparelLayerDef>
         <defName>Back</defName>
         <label>Back</label>
-        <drawOrder>250</drawOrder>
+        <drawOrder>500</drawOrder>
     </ApparelLayerDef>
 </Defs>
